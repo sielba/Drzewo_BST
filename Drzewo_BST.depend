@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1366758986 source:/Users/arkadiuszsielecki/Documents/Sort Methods/Drzewo_BST/main.cpp
+	<cstdio>
+	<cstring>
+	<ctime>
+
